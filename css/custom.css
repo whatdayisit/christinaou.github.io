@@ -1,0 +1,67 @@
+.image-page {
+    background: url("../img/ending.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+    opacity: 0;
+    z-index: -1;
+}
+
+.start-page {
+    height: 100vh;
+    width: auto;
+    position: relative;
+
+}
+
+p {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+h1 {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    text-shadow: 3px 2px 2px #355863;
+    color: #D6F5FF;
+}
+
+.text-words {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+
+div#text { 
+    position: relative;
+    top: 80%;
+    left: 55%;
+    width: 0px; 
+    height: 2em; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    color: green; 
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    text-shadow: 4px 3px 2px #355863;
+    color: #7DE8D6;
+    font-size: 3vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
