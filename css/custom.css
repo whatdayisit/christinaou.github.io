@@ -35,7 +35,7 @@ h1 {
 
 
 div#text { 
-    position: relative;
+    position: absolute;
     top: 80%;
     left: 55%;
     width: 0px; 
