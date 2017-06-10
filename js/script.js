@@ -1,5 +1,4 @@
-$('div.image-page').animate({ opacity: 1 }, { duration: 3000 });
-
+$('div.image-page').delay(400).animate({ opacity: 1 }, { duration: 2500 });
 
 var spanWidth = $('#text span').width();
-$('#text').animate( { width: spanWidth }, 3500 );
+$('#text').delay(3000).animate( { width: spanWidth }, 2600 );
